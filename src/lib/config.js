@@ -3,6 +3,7 @@
  */
 
 const config = {
+  appName: "Amazon Product Studio",
   auth: {
     google: {
       clientId: process.env.GOOGLE_CLIENT_ID,
