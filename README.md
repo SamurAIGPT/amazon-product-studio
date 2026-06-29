@@ -13,6 +13,8 @@
 
 > 🎨 **[Explore 50+ more open-source AI apps →](https://github.com/Anil-matcha/awesome-generative-ai-apps)**
 
+https://github.com/user-attachments/assets/45866dbe-d5e5-4e94-8f76-386b5aab2f22
+
 ## 🌐 Project Details
 
 **GitHub Repository:** [github.com/SamurAIGPT/amazon-product-studio](https://github.com/SamurAIGPT/amazon-product-studio)
