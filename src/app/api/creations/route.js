@@ -109,6 +109,10 @@ export async function POST(req) {
       aspectRatio: aspectRatio || "1:1",
     });
 
+    try {
+      creation.inputUrls = JSON.parse(creation.inputUrls);
+    } catch (e) {}
+
     return NextResponse.json(creation);
   } catch (error) {
     console.error("[CREATIONS_POST_ERROR]", error);
