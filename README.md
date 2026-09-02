@@ -15,6 +15,11 @@
 
 https://github.com/user-attachments/assets/45866dbe-d5e5-4e94-8f76-386b5aab2f22
 
+## Related Projects
+
+- [MuAPI Product Photography API](https://muapi.ai/product-photography-api) — Compare a unified REST workflow for generating styled e-commerce product imagery.
+- [MuAPI Image Editing API](https://muapi.ai/ai-image-editing-api) — Browse multi-reference image-editing models for product scenes and ad creative.
+
 ## 🌐 Project Details
 
 **GitHub Repository:** [github.com/SamurAIGPT/amazon-product-studio](https://github.com/SamurAIGPT/amazon-product-studio)
